@@ -7,7 +7,7 @@ OpenCore EFI for Aleph's AMD Hackintosh.
 | Component | Specification |
 | --- | --- |
 | Processor | AMD Ryzen 7 5700X |
-| Motherboard | GIGABYTE B550M AORUS |
+| Motherboard | GIGABYTE B550M AORUS ELITE (AMD AM4, Micro ATX, DDR4) |
 | Graphics card | AMD Radeon RX 6600 |
 
 ## Repository structure
